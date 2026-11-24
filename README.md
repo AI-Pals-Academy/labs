@@ -34,3 +34,9 @@ Every topic follows the same layout:
 ├─ <starter>.zip      ← starter files, one-click download
 └─ <starter>/         ← the same files, to browse online
 ```
+
+## Licence
+
+Free for personal learning and teaching. © AI Pals Academy, licensed under [CC BY-NC 4.0](LICENSE).
+Please credit **AI Pals Academy** if you share it, and don't re-sell or re-publish it commercially.
+The AI Pals Academy name, logo and mascot may not be reused without permission.
