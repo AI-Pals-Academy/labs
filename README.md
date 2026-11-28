@@ -9,10 +9,10 @@ Each workbook teaches the ideas first, with diagrams, and then walks you through
 
 ## Workbooks
 
-| # | Topic | What you'll learn | Files |
-|---|---|---|---|
-| WB01 | **Agents & Subagents** | Build an AI team in Claude desktop: parallel and sequential agents, CLAUDE.md, skills | [Open folder](Agents-and-Subagents/) |
-| WB02 | **Claude Projects Made Simple** | Plan, organize and automate big work with Claude Projects: threads, files, memory, connectors, scheduled tasks | [Open folder](Claude-Projects-Made-Simple/) |
+| # | Topic | What you'll learn | Video | Files |
+|---|---|---|---|---|
+| WB01 | **Agents & Subagents** | Build an AI team in Claude desktop: parallel and sequential agents, CLAUDE.md, skills | [▶️ Watch](https://youtu.be/YXF2EWgt7VQ) | [Open folder](Agents-and-Subagents/) |
+| WB02 | **Claude Projects Made Simple** | Plan, organize and automate big work with Claude Projects: threads, files, memory, connectors, scheduled tasks | [▶️ Watch](https://youtu.be/lC6wX7z1y4A) | [Open folder](Claude-Projects-Made-Simple/) |
 
 *More workbooks coming soon.*
 

@@ -8,7 +8,7 @@ Learn how to build a small **AI team** in the Claude desktop app. One "manager" 
 
 **The scenario:** a 5-person team needs to choose a note-taking app (Notion, Obsidian or OneNote). Three researcher agents each look into one app at the same time. An analyst compares them, a writer produces a one-page recommendation, and a reviewer checks it.
 
-▶️ **Video:** *coming soon*
+▶️ **Video:** [Watch on YouTube](https://youtu.be/YXF2EWgt7VQ)
 
 ## What's here
 

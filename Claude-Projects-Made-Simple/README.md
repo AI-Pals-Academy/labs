@@ -9,7 +9,7 @@ You learn the ideas with simple pictures (a project is a binder), then build a r
 
 **The scenario:** you turn your family's scattered recipes into a **Family Recipe Binder** in Claude. Each recipe gets its own thread and its own recipe doc. You upload photos of handwritten recipe cards, let Claude spot recipes you already have, save a shopping list to Google Drive, print a recipe booklet, and finish with a weekly meal plan that Claude writes for you every Sunday.
 
-▶️ **Video:** *coming soon*
+▶️ **Video:** [Watch on YouTube](https://youtu.be/lC6wX7z1y4A)
 
 ## What's here
 
